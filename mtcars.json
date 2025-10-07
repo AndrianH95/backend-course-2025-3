@@ -1,0 +1,7 @@
+[
+  { "model": "Mazda RX4", "mpg": 21.0, "cyl": 6 },
+  { "model": "Merc 450SL", "mpg": 17.3, "cyl": 8 },
+  { "model": "Fiat 128", "mpg": 32.4, "cyl": 4 },
+  { "model": "Honda Civic", "mpg": 30.4, "cyl": 4 },
+  { "model": "Datsun 710", "mpg": 22.8, "cyl": 4 }
+]
