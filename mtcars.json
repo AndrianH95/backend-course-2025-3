@@ -1,7 +1,14 @@
 [
   { "model": "Mazda RX4", "mpg": 21.0, "cyl": 6 },
+  { "model": "Mazda RX4 Wag", "mpg": 21.0, "cyl": 6 },
+  { "model": "Datsun 710", "mpg": 22.8, "cyl": 4 },
+  { "model": "Hornet 4 Drive", "mpg": 21.4, "cyl": 6 },
+  { "model": "Hornet Sportabout", "mpg": 18.7, "cyl": 8 },
+  { "model": "Valiant", "mpg": 18.1, "cyl": 6 },
+  { "model": "Duster 360", "mpg": 14.3, "cyl": 8 },
+  { "model": "Merc 240D", "mpg": 24.4, "cyl": 4 },
   { "model": "Merc 450SL", "mpg": 17.3, "cyl": 8 },
   { "model": "Fiat 128", "mpg": 32.4, "cyl": 4 },
   { "model": "Honda Civic", "mpg": 30.4, "cyl": 4 },
-  { "model": "Datsun 710", "mpg": 22.8, "cyl": 4 }
+  { "model": "Toyota Corolla", "mpg": 33.9, "cyl": 4 }
 ]
